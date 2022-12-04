@@ -1,0 +1,235 @@
+.main-navbar {
+    width: 100%;
+    height: 15%;
+    background-color: red;
+    position: relative;
+    top: 0;
+    outline-style: solid;
+    outline-width: 5px;
+    outline-color: white
+  }
+  
+  .navbar {
+    list-style-type: none;
+    margin: 0 20%;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .navbar li {
+    float: left;
+    margin: auto 40px;
+    list-style-type: none;
+    color: white;
+  }
+  
+  .navbar li a {
+    display: block;
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    font-size: 2.5em; 
+  }
+  
+  .navbar li a:hover {
+    color: brown;
+  } 
+  
+  
+  h1{
+      color:brown;
+      text-align:center;
+  }
+  
+  h2{
+      text-align: center;
+  }
+  
+  h3{
+      color: gray;
+      
+  }
+  
+  .page1{
+      background-color: pink;
+      width:100%;
+      
+  }
+
+  .page4{
+    background-color: bisque;
+    width:100%;
+  }
+
+  
+  .contact{
+      width: 800px;
+      margin: 0% 22% 0% 28%;
+      text-align: center;
+      color: brown;
+      font-size: 2rem;
+      
+  }
+  
+  .education{
+    width: 800px;
+    list-style-type: none;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    font-size: 1.5rem;
+    
+  }
+  
+  .programming{
+    width: 800px;
+    list-style-type: none;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    font-size: 1.5rem;
+    
+  }
+  
+  .language{
+    width: 800px;
+    list-style-type: none;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    font-size: 1.5rem;
+ 
+  }
+  .awards{
+    width: 800px;
+    list-style-type: none;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    font-size: 1.5rem;
+    
+  }
+  
+  .ecs{
+    width: 800px;
+    list-style-type: none;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    font-size: 1.5rem;
+    
+  }
+  
+  .skills{
+    width: 800px;
+    list-style-type: none;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    font-size: 1.5rem;
+    
+  }
+  
+  
+  
+  
+  .page2{
+      background-color: navy;
+  }
+  
+  .header{
+    width: 800px;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    font-size: 2rem;
+    color: orange;
+    
+  }
+  
+  
+  .info{
+    width: 800px;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    color: white; 
+     font-size: 1.5rem;
+    
+  }
+  
+  .summary{
+    width: 800px;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    color: blue ;
+     font-size: 1.5rem;
+     
+  }
+  
+  .ttd{
+    width: 800px;
+    list-style: none;
+    margin: 0% 22% 0% 28%;
+    text-align: center;
+    color: blue ;
+    font-size: 1.5rem;
+    
+  }
+  
+  
+  
+  
+  .page3{
+      background-color: beige;
+      
+  }
+  
+  
+  .raccoon{
+    width: 800px;
+    margin: 9% 22% 0% 28%;
+    list-style: none;
+    text-align: center;
+    color: green;
+   
+      
+  }
+  section {
+    border: 4px solid brown;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: beige;
+    
+    
+  }
+
+  img  {
+    width:600px;
+    border-radius: 500px;
+    border-color: green;
+    border-style: solid;
+    border-width: 5px;
+    
+ 
+    
+  }
+
+.video {
+    margin-left: 450px;
+    
+   
+}
+
+ul {
+    list-style-type: none;
+}
+
+#wrapper {
+    width: 850px;
+    height: 600px;
+    background-color: green;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  #map {
+    width: 800px;
+    height: 550px;
+    background-color: maroon;
+    margin: 30px auto;
+  }
