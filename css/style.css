@@ -30,7 +30,7 @@
     font-weight: bold;
     text-align: center;
     padding: 20px 20px 20px 20px;
-    font-size: 2.5em; 
+    font-size: 2em; 
   }
   
   .navbar li a:hover {
@@ -232,4 +232,34 @@ ul {
     height: 550px;
     background-color: maroon;
     margin: 30px auto;
+  }
+
+
+  @media (min-width: 800px){
+    .education{
+      
+      font-family: Sans-Serif;
+      color: brown;
+      margin: 50px auto;
+      border: 3px ridge gray;
+    }
+
+    ol{
+        border: .3rem solid darkgreen;
+
+    }
+  }
+  
+  @media (min-width: 800px){
+    .skills{
+      font-family: Sans-Serif;
+      color: darkgreen;
+      margin: 50px auto;
+      border: 3px ridge yellowgreen;
+    }
+
+    h2{
+        font-size: 25 px;
+
+    }
   }
